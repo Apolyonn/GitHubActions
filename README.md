@@ -1,2 +1,2 @@
 # GitHubActions
-Practice with CI/CD pipeline
+Practice with CI/CD pipeline.
